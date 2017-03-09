@@ -1,1 +1,15 @@
 
+#include <string>
+#include <vector>
+#include <iostream>
+#include "nmf.hpp"
+#include "timer.hpp"
+#include "utils.hpp"
+#include "random.hpp"
+#include "constants.hpp"
+#include "size_check.hpp"
+#include "file_loader.hpp"
+#include "command_line.hpp"
+#include "sparse_matrix.hpp"
+#include "delimited_file.hpp"
+#include "matrix_generator.hpp"
